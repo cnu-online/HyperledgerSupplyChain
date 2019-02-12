@@ -90,4 +90,5 @@ printf "\n User registrations  start \n"
 printf "\n User registrations end \n"
 
 
-printf 'Block Fabric network ready to admins enrolled and users registered'
+printf 'Block Fabric network ready to connect 
+One admin for each org and one user for each org and one driver fro retailer enrolled and registered'
